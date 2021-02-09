@@ -20,7 +20,7 @@ struct ListSection {
 
 static MAIN_SECTION: ListSection = ListSection {
     name: "Main List",
-    description: "The main section of the Demonlist. These demons are the hardest rated levels in the game. Records are accepted above a \
+    description: "The main section of the VictorGDPS Demonlist. These demons are the hardest rated levels in the private server. Records are accepted above a \
                   given threshold and award a large amount of points!",
     id: "mainlist",
     numbered: true,
